@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=OrdersList
+comment0.text=\r\n\r\n\ @author\ Dell\r\n
+comment1.params=
+comment1.target=OrdersList()
+comment1.text=\r\n\ Creates\ new\ form\ OrdersList\r\n
+comment2.params=
+comment2.target=void\ initComponents()
+comment2.text=\r\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\r\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\r\n\ regenerated\ by\ the\ Form\ Editor.\r\n
+comment3.params=evt
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ jTable1MouseClicked(java.awt.event.MouseEvent)
+comment6.params=evt
+comment6.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+numComments=7
