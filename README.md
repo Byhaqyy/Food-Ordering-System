@@ -66,7 +66,3 @@ java OrderingSystem
    - **Sales Report** — view all completed transactions and the total revenue.
    - **Exit Program** — closes the application.
 
-
-## Authors
-
-Originally generated from a NetBeans/BlueJ project template (author tag: `Dell`).
